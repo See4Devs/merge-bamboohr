@@ -5,7 +5,7 @@ This is a sample repository on how to get Jobs data from BambooHR using Merge's 
 ## Install the required libraries
 ```
 pip3 install pandas
-pip3 install merge-ats-client
+pip install --upgrade MergePythonClient
 ```
 
 ### Run the code
